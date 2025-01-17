@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+.work-sans-font > {
+  font-family: "work Sans", sans serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style-normal:
+i}
+
+
+.navbar{
+  display: flex; 
+}
+
+.text-gray{
+  color: #424242;
+}
+
+.text-light-gray{
+    color: #727272;
+}
+
+.bg-light{
+  background-color: rgba(14, 110, 255, 0.1);
+}
+
+
+
+.nav-item{
+  list_style: none;
+  margin-right: 30px;
+}
+
+.nav-link{
+  text-decoration: none;
+  font-weight: 500;
+}
+
