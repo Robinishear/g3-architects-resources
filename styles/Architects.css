@@ -289,8 +289,8 @@ background-color: #FFFFFF;
         margin: 50px auto;
     }
  
-    .sponsor-companise, .facts-container {
-        grid-template: columns: repeat(2, 1fr);
+    .sponsor-companise, .facts-container {        
+        grid-template-columns: repeat(2, 1fr);
         gap: 50px;
         justify-items: center;
     }
